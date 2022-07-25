@@ -34,16 +34,10 @@ exifmgr
 =======
 
 
-    Add a short description here!
+    Photo organizer / wrapper for Exiftool.
 
 
-A longer description of your project goes here...
+Exifmgr is a tool created to help photographers to organize their collection
+of photos.. Launch this script and point it to the directory with photos,
+it will split them per used lenses.
 
-
-.. _pyscaffold-notes:
-
-Note
-====
-
-This project has been set up using PyScaffold 4.3. For details and usage
-information on PyScaffold see https://pyscaffold.org/.
